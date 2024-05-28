@@ -13,7 +13,6 @@ This is a solution to the [Fylo data storage component challenge on Frontend Men
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
